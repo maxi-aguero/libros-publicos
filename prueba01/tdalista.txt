@@ -1,0 +1,47 @@
+boolean esta=false;
+for (int i=0;!esta&&i<cantenfila;i++)
+{esta=T[i]==m}
+
+boolean esta=false;
+int i=0;
+while (!esta&&i<catelem())
+{
+if T[i]==m
+	esta=true;
+else i++;
+}
+
+
+110551
+Micaela Orellano
+miqa.orellano@gmail.com
+
+114538
+Adrian Flores
+nanoflores3114@gmail.com
+
+113143
+Maximiliano Aguero
+maximilianoaguero@aol.com
+
+
+https://cs.uns.edu.ar/~ldm/mypage/?page_id=702
+https://github.com/JuanmaPuhl/Proyecto-1-SO
+https://github.com/nicolasdato/oc-tp/blob/master/lista.c
+
+
+HOYesmartes13@ maxiaguero@mail.ru
+lunaTOMI2 maxiaguero_2004@hotmail.com
+maxi.m.aguero@hotmail.com HOYesmartes13@
+lectulandia maxi.aguero lunaTOMI2#
+@lunaTOMI maxiagueroooo@gmail.com
+HOYesmartes13@ maxi.m.aguero@hotmail.com mega
+arbolrosa facebook maxiforeveralone864@hotmail.com
+22lunaTOMI22
+lunaTOMI2 maxiaguero_2004@hotmail.com crunckyroll
+discord maximilianoaguero @lunaTOMI
+lunaTOMI2 maximilianoaguero avefenixanime
+telefono552 maxiagueroooo@yahoo.com
+lunaTOMI2 maxiagueroooo@gmail.com computrabajo
+maximilianoaguero@aol.com 22lunaTOMI22
+1515lunaTOMI mi anses 23-34561777-9
